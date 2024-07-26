@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://github.com/Liyuan701/Liyuan701/blob/main/asset/archaeology.gif" height="500" length = "500" />
+</div>
+
 ## Introduction 🐈‍⬛​
 ![Static Badge](https://img.shields.io/badge/你好！-8f61b5) ![Static Badge](https://img.shields.io/badge/Bienvenue!-8e6fa6) ![Static Badge](https://img.shields.io/badge/Terve!-9781b1) ![GitHub top language](https://img.shields.io/github/languages/top/Liyuan701/Liyuan701) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/Liyuan701)
 ![](https://visitor-badge.glitch.me/badge?page_id=Liyuan701.Liyuan701) 
