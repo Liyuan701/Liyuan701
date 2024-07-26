@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Liyuan701/Liyuan701/blob/main/asset/2.gif" length = "500" />
+ <img src="https://github.com/Liyuan701/Liyuan701/blob/main/asset/2.gif" height = "500" />
 </div>
 
 ## Introduction 🐈‍⬛​
