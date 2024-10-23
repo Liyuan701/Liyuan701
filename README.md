@@ -23,5 +23,3 @@ Unfortunately, I have yet to find a way to combine my two passions, archaeology 
 </pre>
 ## 👀Github Stats  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyuan701&layout=compact&langs_count=8"/> [![GitHub Streak](https://streak-stats.demolab.com/?user=Liyuan701)](https://git.io/streak-stats)
-
- <img src="https://github.com/Liyuan701/Liyuan701/blob/main/asset/2.gif" height="300" />
