@@ -4,8 +4,6 @@
 
 Hey, I'm **Liyuan**, a doctoral student in archaeology from Urumqi, China, currently studying in Paris.<br>
 I recently discovered the joy of coding, and during my spare time, I am a cadet at **École 42 Paris**.<br>
-I am fascinated by the potential applications of informatics in archaeology, especially ABM.<br>
-Unfortunately, I have yet to find a way to combine my two passions, archaeology and coding, but I am continuing to learn and explore.<be>
 
 <div align="center">
  <img src="https://github.com/Liyuan701/Liyuan701/blob/main/asset/cat.gif" height="40" />
