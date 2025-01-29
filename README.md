@@ -15,7 +15,7 @@ I recently discovered the joy of coding, and during my spare time, I am a cadet 
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 <pre>
-  - 🔭 I’m currently working on 42 project Philosopher and Minishell
+  - 🔭 I’m currently working on 42 project Minishell
   - 🌱 I’m currently learning C, Netlogo and R
   - 📫 How to reach me: rohanafan@sina.com
 </pre>
