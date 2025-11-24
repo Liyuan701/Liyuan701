@@ -20,4 +20,4 @@ I recently discovered the joy of coding, and during my spare time, I am a cadet 
   - 📫 How to reach me: rohanafan@sina.com
 </pre>
 ## 👀Github Stats  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyuan701&layout=compact&langs_count=8"/> [![GitHub Streak](https://streak-stats.demolab.com/?user=Liyuan701)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyuan701&layout=compact&langs_count=8"/> 
