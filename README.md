@@ -1,24 +1,35 @@
-## 🐈‍⬛​Introduction 
-![Static Badge](https://img.shields.io/badge/你好！-8f61b5) ![Static Badge](https://img.shields.io/badge/Bienvenue!-8e6fa6) ![Static Badge](https://img.shields.io/badge/Terve!-9781b1) ![GitHub top language](https://img.shields.io/github/languages/top/Liyuan701/Liyuan701) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/Liyuan701)
-![](https://visitor-badge.glitch.me/badge?page_id=Liyuan701.Liyuan701) 
-
-Hey, I'm **Liyuan**, a doctoral student in archaeology from Urumqi, China, currently studying in Paris.<br>
-I recently discovered the joy of coding, and during my spare time, I am a cadet at **École 42 Paris**.<br>
-
 <div align="center">
- <img src="https://github.com/Liyuan701/Liyuan701/blob/main/asset/cat.gif" height="40" />
- </div>
 
-<!-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=8F61B5&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Bienvenue+sur+mon+GitHub+!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%EF%BC%81;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+GitHub!)](https://git.io/typing-svg)
+
+</div>
+
+## 📻Introduction
+
+Hey, I'm **Liyuan**, from Urumqi, currently based in Paris.
+
+I completed the **42 Paris Common Core**, where I discovered how much I enjoy programming. I continue to code as a personal interest.
+
+
+
 <pre>
-  - 🔭 I’m currently working on 42 project ft-transendence
-  - 🌱 I’m currently learning C, Netlogo and R
-  - 📫 How to reach me: rohanafan@sina.com
+- 🎓 PhD student in Archaeology
+- 💻 42 Paris Common Core graduate
+- 🔐 Interested in cryptography and quantum computing
+- 📊 Interested in data science and digital humanities
+- 📫 Reach me: rohanafan@sina.com
 </pre>
 
-## 👀Github Stats  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyuan701&layout=compact&langs_count=8"/> 
+## 🛠 Skills
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=r,c,cpp,js,git,docker,linux,postgres&perline=8" />
+
+</div>
+
+<div align="left">
+
+![snake gif](https://github.com/Liyuan701/Liyuan701/blob/output/github-contribution-grid-snake.svg)
+
+</div>
