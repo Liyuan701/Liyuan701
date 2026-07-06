@@ -20,6 +20,17 @@ I completed the **42 Paris Common Core**, where I discovered how much I enjoy pr
 - 📫 Reach me: rohanafan@sina.com
 </pre>
 
+## 🏫 42 Project List
+
+| Project | Description |
+|---|---|
+| [Echo_of_Morse](https://github.com/Liyuan701/42_Echo_of_Morse) | A full-stack web app for learning Morse code, chatting, and joining competitions. |
+| [Webserv](https://github.com/Liyuan701/42_webserv) | A simple HTTP server built in C++ to understand web protocols and server behavior. |
+| [Cub3D](https://github.com/Liyuan701/42_cub3D) | A small 3D game inspired by raycasting, developed with the MiniLibX library. |
+| [Minishell](https://github.com/Liyuan701/42_minishell) | A small Unix shell that reproduces core shell features such as commands, pipes, and redirections. |
+
+
+
 ## 🛠 Skills
 
 <div align="left">
@@ -30,6 +41,19 @@ I completed the **42 Paris Common Core**, where I discovered how much I enjoy pr
 
 <div align="left">
 
-![snake gif](https://github.com/Liyuan701/Liyuan701/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Liyuan701/Liyuan701/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Liyuan701/Liyuan701/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Liyuan701/Liyuan701/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
